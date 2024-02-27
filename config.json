@@ -1,8 +1,8 @@
 {
-  "ownerNumber": "6281575886399@s.whatsapp.net",
-  "pairingNumber": "masukin nomer yang ingin dijadikan bot",
+  "ownerNumber": "6285360397134@s.whatsapp.net",
+  "pairingNumber": "6285360397134",
   "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "botName": "KUROMI BOT",
   "packname": "follow",
   "author": "@riycoders",
   "pathimg": "./media/yoshino.jpg",
@@ -12,16 +12,16 @@
   "hmm": {
     "yt": "https://youtube.com/@riycoders",
     "ig": "https://instagram.com/riycoders",
-    "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
+    "linkmenu": "https://chat.whatsapp.com/EYl5Ur4o0ScJ4172SUkeKM"
   },
   "donasi": {
-	"dana": "081575886399",
-	"gopay": "081575886399"
+	"dana": "08157588639",
+	"gopay": "08157588639"
   },
   "gamewaktu": 90,
-  "limitCount": 25,
+  "limitCount": 20,
   "gcount": {
-	"prem": 35,
+	"prem": 1000,
 	"user": 15
   }
 }
